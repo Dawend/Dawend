@@ -1,5 +1,4 @@
-# 👋 Eresbos
-This is where I open something open source and improve things 😋
+Merhaba, ben Samet.
 
 [![Discord](https://img.shields.io/badge/Discord-@dawend-6182e1)](https://discord.com/users/754270824504229949)
 [![Instagram](https://img.shields.io/badge/İnstagram-@dawendvac-E1306C)](https://instagram.com/dawendvac)
