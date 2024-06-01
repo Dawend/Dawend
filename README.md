@@ -1,37 +1,10 @@
+<p align="center">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  
+  <br><br>
 Merhaba, ben Samet. Aşağıdaki bağlantılardan sosyal medya hesaplarıma ulaşabilirsin.
 
 [![Discord](https://img.shields.io/badge/Discord-@dawend-6182e1)](https://discord.com/users/754270824504229949)
 [![Instagram](https://img.shields.io/badge/İnstagram-@dawendvac-E1306C)](https://instagram.com/dawendvac)
-<details>
-  <summary>&nbsp; <b>Stats</b></summary>
-  &nbsp; 
-  <details>
-    <summary> &nbsp; &nbsp; &nbsp; <b>GitHub Stats</b></summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=ERESB0S&count_private=true&bg_color=0d1117&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERESB0S&layout=compact&bg_color=0d1117&theme=dark&hide_border=true" />
-  </details>
-
-  <details>
-    <summary> &nbsp; &nbsp; &nbsp; <b>Discord Presence</b></summary>
-    <img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665?bg=0d1117">
-  </details>
- </details>
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
-  <samp>
-    Hi there, I'm Murat K. - aka Muratva Stark :wave:<br>
-    I'm a <em>Backend Developer</em> and <em>Student</em>.<br>
-    I have a great interest in artificial intelligence and chess.<br>
-    I love to play Rocket League.<br>
-    <br><img src="https://komarev.com/ghpvc/?username=muratvastark">
-    <br><br>:coffee: Wanna chat? :point_right: <a href="https://discord.gg/XkymXkcjVn">Discord</a>
-  </samp>
-</p>
 
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
