@@ -1,8 +1,8 @@
 # 👋 Eresbos
 This is where I open something open source and improve things 😋
 
-[![discord_dawend](https://img.shields.io/badge/Discord-@dawend-6182e1)](https://discord.com/users/754270824504229949)
-[![discord_dawend](https://img.shields.io/badge/Discord-Sunucum)](https://discord.gg/fcEkzFp9)
+[![Discord](https://img.shields.io/badge/Discord-@dawend-6182e1)](https://discord.com/users/754270824504229949)
+[![Instagram](https://img.shields.io/badge/instagram-E1306C)](https://instagram.com/dawendvac)
 <details>
   <summary>&nbsp; <b>Stats</b></summary>
   &nbsp; 
