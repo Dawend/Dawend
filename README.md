@@ -6,6 +6,6 @@
 [![Instagram](https://img.shields.io/badge/İnstagram-@dawendvac-E1306C)](https://instagram.com/dawendvac)
 [![Spotify](https://img.shields.io/badge/Spotify-@Dawend-1DB954)](https://open.spotify.com/user/p5awp9dagxa0p5p6sghp4bzjg?si=f3c3a744cd64483f)
 [![Spotify](https://img.shields.io/badge/Youtube-@dawend-FF0000)](https://youtube.com/@dawend)
-[![Twitter](https://img.shields.io/badge/İnstagram-@dawendvac-14171A)](https://x.com/dawendvac)
+[![Twitter](https://img.shields.io/badge/X-@dawendvac-14171A)](https://x.com/dawendvac)
 
 📫 Contact for: [Telegram](https://t.me/dawendvac)
