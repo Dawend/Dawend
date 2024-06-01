@@ -15,4 +15,4 @@ Sosyal medyalardan beni takip etmek için:
 <code><img height="20" alt="react" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
 
 ##  Discord Activity
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/754270824504229949)](https://discord.com/users/754270824504229949)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/754270824504229949?bg-0d1117)](https://discord.com/users/754270824504229949)
