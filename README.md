@@ -5,5 +5,5 @@
 src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.instagram.com/dawendvac/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
-
+##  Discord Activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/754270824504229949?bg=010511)](https://discord.com/users/754270824504229949)
