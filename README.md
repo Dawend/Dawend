@@ -6,13 +6,10 @@ Merhaba, ben Samet.
 Sosyal medyalardan beni takip etmek için:
   
 [![Discord](https://img.shields.io/badge/Discord-@dawend-6182e1)](https://discord.com/users/754270824504229949)
-[![Instagram](https://img.shields.io/badge/İnstagram-@dawendvac-E1306C)](https://instagram.com/dawendvac)
+[![Instagram](https://img.shields.io/badge/Spotify-@Dawend-1DB954)](https://open.spotify.com/user/p5awp9dagxa0p5p6sghp4bzjg?si=f3c3a744cd64483f)
+[![Spotify](https://img.shields.io/badge/Discord-@dawend-6182e1)](https://discord.com/users/754270824504229949)
+[![Twitter](https://img.shields.io/badge/İnstagram-@dawendvac-E1306C)](https://instagram.com/dawendvac)
 
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"></code>
-<code><img height="20" alt="react" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
 
 ##  Discord Activity
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/754270824504229949?bg-0d1117)](https://discord.com/users/754270824504229949)
