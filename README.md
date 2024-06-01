@@ -1,3 +1,5 @@
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  
 Merhaba, ben Samet. Aşağıdaki bağlantılardan sosyal medya hesaplarıma ulaşabilirsin.
 
 [![Discord](https://img.shields.io/badge/Discord-@dawend-6182e1)](https://discord.com/users/754270824504229949)
