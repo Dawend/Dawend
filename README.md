@@ -8,4 +8,4 @@
 [![Spotify](https://img.shields.io/badge/Youtube-@dawend-FF0000)](https://youtube.com/@dawend)
 [![Twitter](https://img.shields.io/badge/İnstagram-@dawendvac-14171A)](https://x.com/dawendvac)
 
-📫 İletişime geçmek için: [Telegram](https://t.me/dawendvac)
+📫 Contact for: [Telegram](https://t.me/dawendvac)
